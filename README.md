@@ -11,12 +11,12 @@ that the two challenges can be well modeled simultaneously via a
 unified Query-Support TransFormer (QSFormer) model. To be
 specific, the proposed QSFormer involves global query-support
 sample Transformer (sampleFormer) branch and local patch
-Transformer (patchFormer) learning branch. sampleFormer aims to capture the dependence of samples in support and query sets
+Transformer (patchFormer) learning branch. sampleFormer aims to capture the dependence of samples in support and query sets
 for image representation. It adopts the Encoder, QS-Decoder and
 Cross-Attention to respectively model the Support, Query (image)
 representation and Metric learning for few-shot classification
 task. Also, as a complementary to global learning branch, we
-adopt a local patch Transformer to extract structural representation for each image sample by capturing the long-range
+adopt a local patch Transformer to extract structural representation for each image sample by capturing the long-range
 dependence of local image patches. In addition, we introduce a
 novel Cross-scale Interactive Feature Extractor (CIFE) to extract
 and fuse different scale CNN features as an effective backbone
