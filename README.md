@@ -37,7 +37,7 @@ More experimental results can be found in the paper.
 We perform the abundant experiments on four
 publicly popular datasets for few-shot classification task,
 such as miniImageNet, tieredImageNet, Fewshot-CIFAR100 and Caltech-UCSD Birds-200-2011.
-These datasets can be downloaded to click Baidu Drive ([miniImageNet](https://pan.baidu.com/s/1yTn78HgbkrRh_3EClax5FA)(password: rqcs), [tieredImageNet](https://pan.baidu.com/s/1Z9ZsYkwAY11Z_Glzu4tChQ)(password:k5z6), [FC100](https://pan.baidu.com/s/1atEdnikzs8zfKXuO4xr1rQ)(password: 3cib), [CUB](https://pan.baidu.com/s/1defYYyFQL5ZV1Dzug5paHQ)(password: qkpc))
+These datasets can be downloaded to click Baidu Drive ([miniImageNet](https://pan.baidu.com/s/1yTn78HgbkrRh_3EClax5FA) (password: rqcs), [tieredImageNet](https://pan.baidu.com/s/1Z9ZsYkwAY11Z_Glzu4tChQ) (password:k5z6), [FC100](https://pan.baidu.com/s/1atEdnikzs8zfKXuO4xr1rQ) (password: 3cib), [CUB](https://pan.baidu.com/s/1defYYyFQL5ZV1Dzug5paHQ) (password: qkpc))
 
 ## Installation
 python3.7+, pytorch>=1.7, qpth, CVXPY, OpenCV-python, tensorboard
