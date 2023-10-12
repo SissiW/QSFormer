@@ -1,6 +1,8 @@
-# 《Few-Shot Learning Meets Transformer: Unified Query-Support Transformers for Few-Shot Classification》
-IEEE Transactions on Circuits and Systems for Video Technology 2023
+# 《Few-Shot Learning Meets Transformer: Unified Query-Support Transformers for Few-Shot Classification》TCSVT 2023
+
 [paper](https://ieeexplore.ieee.org/abstract/document/10144072) &nbsp;&nbsp;
+
+[Abstract]()
 
 ![overview](https://github.com/SissiW/QSFormer/blob/main/overview.png)
 
