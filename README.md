@@ -26,8 +26,10 @@ way. A large number of experiments are conducted on four
 popular datasets to validate the superiority and effectiveness of
 the proposed QSFormer.
 
+## Architecture
 ![overview](https://github.com/SissiW/QSFormer/blob/main/overview.png)
 
+## Results on MiniImageNet and TieredImageNet
 ![results](https://github.com/SissiW/QSFormer/blob/main/mini_tiered_result.png?raw=true)
 
 
