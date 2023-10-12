@@ -33,4 +33,9 @@ the proposed QSFormer.
 More experimental results can be found in the paper.
 ![results](https://github.com/SissiW/QSFormer/blob/main/mini_tiered_result.png?raw=true)
 
+## Installation
+pytorch>=1.7, tqdm, wandb, timm, typed-argument-parser, pytorch_metric_learning, scipy
+
+
+
 
