@@ -41,6 +41,7 @@ pytorch>=1.7, qpth, CVXPY, OpenCV-python, tensorboard
 sh train_meta_QSFormer.sh
 ```
 
-
+## Acknowledgements
+This project is built upon [DeepEMD](https://github.com/icoz69/DeepEMD). Thanks to the contributors of these great codebases.
 
 
