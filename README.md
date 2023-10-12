@@ -1,5 +1,3 @@
-# QSFormer
+# 《Few-Shot Learning Meets Transformer: Unified Query-Support Transformers for Few-Shot Classification》IEEE Transactions on Circuits and Systems for Video Technology 2023
 
-**TCSVT 2023** &nbsp;&nbsp;
-[arxiv.org/abs/2203.10833](https://arxiv.org/abs/2203.10833) &nbsp;&nbsp;
-[Papers With Code](https://paperswithcode.com/paper/hyperbolic-vision-transformers-combining)
+[paper]([https://arxiv.org/abs/2203.10833](https://ieeexplore.ieee.org/abstract/document/10144072)) &nbsp;&nbsp;
