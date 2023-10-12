@@ -33,6 +33,12 @@ the proposed QSFormer.
 More experimental results can be found in the paper.
 ![results](https://github.com/SissiW/QSFormer/blob/main/mini_tiered_result.png?raw=true)
 
+## Datasets
+We perform the abundant experiments on four
+publicly popular datasets for few-shot classification task,
+such as miniImageNet, tieredImageNet, Fewshot-CIFAR100 and Caltech-UCSD Birds-200-2011.
+These datasets can be downloaded to click Baidu Drive ([miniImageNet](https://pan.baidu.com/s/1yTn78HgbkrRh_3EClax5FA)(rqcs))
+
 ## Installation
 python3.7+, pytorch>=1.7, qpth, CVXPY, OpenCV-python, tensorboard
 
