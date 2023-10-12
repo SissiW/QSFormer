@@ -44,4 +44,14 @@ sh train_meta_QSFormer.sh
 ## Acknowledgements
 This project is built upon [DeepEMD](https://github.com/icoz69/DeepEMD). Thanks to the contributors of these great codebases.
 
-
+## Citation
+If you find this project useful, please feel free to leave a star and cite our paper:
+```
+@article{wang2023few,
+  title={Few-Shot Learning Meets Transformer: Unified Query-Support Transformers for Few-Shot Classification},
+  author={Wang, Xixi and Wang, Xiao and Jiang, Bo and Luo, Bin},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2023},
+  publisher={IEEE}
+}
+```
