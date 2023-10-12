@@ -30,6 +30,7 @@ the proposed QSFormer.
 ![overview](https://github.com/SissiW/QSFormer/blob/main/overview.png)
 
 ## Results on MiniImageNet and TieredImageNet
+More experimental results can be found in the paper.
 ![results](https://github.com/SissiW/QSFormer/blob/main/mini_tiered_result.png?raw=true)
 
 
