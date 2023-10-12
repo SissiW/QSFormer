@@ -36,6 +36,9 @@ More experimental results can be found in the paper.
 ## Installation
 pytorch>=1.7, tqdm, wandb, timm, typed-argument-parser, pytorch_metric_learning, scipy
 
-
+## Config
+'''
+sh train_meta_QSFormer.sh
+'''
 
 
