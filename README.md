@@ -34,7 +34,7 @@ More experimental results can be found in the paper.
 ![results](https://github.com/SissiW/QSFormer/blob/main/mini_tiered_result.png?raw=true)
 
 ## Installation
-pytorch>=1.7, qpth, CVXPY, OpenCV-python, tensorboard
+python3.7+, pytorch>=1.7, qpth, CVXPY, OpenCV-python, tensorboard
 
 ## Config
 ```
@@ -42,7 +42,7 @@ sh train_meta_QSFormer.sh
 ```
 
 ## Acknowledgements
-This project is built upon [DeepEMD](https://github.com/icoz69/DeepEMD). Thanks to the contributors of these great codebases.
+This project is built upon [DeepEMD](https://github.com/icoz69/DeepEMD). We also reference some code from [DETR](https://github.com/facebookresearch/detr). Thanks to the contributors of these great codebases.
 
 ## Citation
 If you find this project useful, please feel free to leave a star and cite our paper:
