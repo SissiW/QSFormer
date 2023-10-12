@@ -2,7 +2,8 @@
 
 [paper](https://ieeexplore.ieee.org/abstract/document/10144072) &nbsp;&nbsp;
 
-[Abstract] The goal of Few-shot classification (FSL) is to identify unseen classes with very limited samples has attracted more and more attention. Usually, it is formulated as a metric learning problem.
+#Abstract 
+The goal of Few-shot classification (FSL) is to identify unseen classes with very limited samples has attracted more and more attention. Usually, it is formulated as a metric learning problem.
 
 ![overview](https://github.com/SissiW/QSFormer/blob/main/overview.png)
 
